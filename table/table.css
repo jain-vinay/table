@@ -1,0 +1,26 @@
+
+
+
+p{
+    text-align: center ;
+}
+
+
+table{
+    width: 600px ;
+    height: 300px ; 
+    margin-right: 100px ;
+    margin-left: 350px ;
+    
+}
+
+table, th, td {
+  border:2px solid black;
+  border-collapse: collapse;
+    border-style: dashed;
+}
+
+#row{
+   vertical-align: bottom ;
+    text-align:right ;
+}
